@@ -1,0 +1,13 @@
+Aly Music Player — instalación
+==============================
+1. Descomprime esta carpeta.
+2. En una terminal, dentro de ella:   ./install.sh
+3. Ejecuta:                            aly-music-player
+
+Requisitos del sistema (el instalador los pide con sudo si hace falta):
+  mpv/libmpv, ffmpeg (forma de onda), Python 3 con venv y pip.
+Las librerías de Python (PyQt6, python-mpv, mutagen, numpy, dbus-next) se instalan
+en un entorno propio dentro de ~/.local/share/aly-music-player/venv, sin tocar el sistema.
+
+Opciones:  --skip-system-deps   --uninstall   --uninstall --purge   --help
+Atajo Hyprland (hyprland.conf):  bind = SUPER, M, exec, aly-music-player
