@@ -37,3 +37,14 @@ Start AMP
 aly-music-player
 
 Enjoy!!!
+<img width="1600" height="900" alt="2026-11-26-010508_hyprshot" src="https://github.com/user-attachments/assets/23edb165-5d7e-474f-8ff3-16165ec71c9c" />
+
+<img width="1600" height="900" alt="2026-11-26-011318_hyprshot" src="https://github.com/user-attachments/assets/c0abe2be-29c7-4be4-aab6-b195a4ada4d3" />
+
+<img width="1600" height="900" alt="2026-11-26-012036_hyprshot" src="https://github.com/user-attachments/assets/228915d5-ca1d-4162-9e71-4a68ba9a4920" />
+
+<img width="1600" height="900" alt="2026-11-26-012224_hyprshot" src="https://github.com/user-attachments/assets/3d69372b-8964-46c4-bb68-13ffa78d6450" />
+
+
+<img width="1600" height="900" alt="2026-11-26-012537_hyprshot" src="https://github.com/user-attachments/assets/f4b3794a-db8a-41e3-8524-15e2481cd4c1" />
+
