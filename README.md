@@ -20,3 +20,19 @@ Playlist
 Also you can switch between wave and progress bar to see how music goes
 
 This player changes its colors according to the wallpapers. I am doing this cause I didn't find any players who change its colors with pywal 
+
+--Install--
+
+Clone the repository
+
+Go to the repository
+cd 
+
+Install the app with
+./install
+It automatically installs all the dependencies
+
+Start AMP
+aly-music-player
+
+Enjoy
