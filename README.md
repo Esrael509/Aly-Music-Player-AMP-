@@ -24,9 +24,10 @@ This player changes its colors according to the wallpapers. I am doing this caus
 --Install--
 
 Clone the repository
+git clone https://github.com/Esrael509/Aly-Music-Player-AMP-.git
 
 Go to the repository
-cd 
+cd Aly-Music-Player-AMP-/
 
 Install the app with
 ./install
@@ -35,4 +36,4 @@ It automatically installs all the dependencies
 Start AMP
 aly-music-player
 
-Enjoy
+Enjoy!!!
